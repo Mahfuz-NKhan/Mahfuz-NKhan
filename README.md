@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java full stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahfuz-nkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz-nkhan" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mahfuz-nkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz-nkhan" /> </p>
 
 - 🔭 I’m currently work on Java full stack skills Developer And Project [BankManagementSystem](https://github.com/Mahfuz-NKhan/bank-management-system.git)
 
